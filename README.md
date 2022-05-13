@@ -1,4 +1,4 @@
-## esusu-api
+## Tiny Micro
 * simple collision resistant microservice controller function for generate a number of sequential ids.
 
 ### This function assumes the following functionalities and constraints.
