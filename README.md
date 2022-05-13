@@ -1,7 +1,7 @@
 ## Tiny Micro
 ![example workflow](https://github.com/E-wave112/tiny-micro/actions/workflows/build.yml/badge.svg) ![GitHub](https://img.shields.io/github/license/E-wave112/tiny-micro) ![codecov](https://img.shields.io/codecov/c/gh/E-wave112/tiny-micro?token=Z9zItrbX88)
 
-* simple collision resistant microservice controller function for generate a number of sequential ids.
+### simple collision resistant microservice controller function for generate a number of sequential ids.
 
 ### This function assumes the following functionalities and constraints.
 
@@ -17,7 +17,6 @@
 
 ```
 $ npm install
-
 ```
 Then you can then finally test out multiple instances of the microservice controller like so:
 - call the ```instantiateTestIds``` function  in the```src/index.ts``` file with the required arguments
@@ -26,13 +25,11 @@ Then you can then finally test out multiple instances of the microservice contro
 
 ```
 $ npm run dev
-
 ```
 or
 
 ```
 $ npm run start
-
 ```
 
 ### Running Tests
