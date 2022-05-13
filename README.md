@@ -1,4 +1,6 @@
 ## Tiny Micro
+![example workflow](https://github.com/E-wave112/tiny-micro/actions/workflows/build.yml/badge.svg) ![GitHub](https://img.shields.io/github/license/E-wave112/tiny-micro)
+
 * simple collision resistant microservice controller function for generate a number of sequential ids.
 
 ### This function assumes the following functionalities and constraints.
